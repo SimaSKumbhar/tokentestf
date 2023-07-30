@@ -18,7 +18,9 @@ function Login() {
             console.log(res);
             localStorage.setItem("user",data.current.value)
             if(res.data === "Success") {
+                alert("login successfull ")
                 navigate('/home')
+                
             }else{
               alert("incorrect  password or email-id")
             }
