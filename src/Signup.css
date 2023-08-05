@@ -1,0 +1,47 @@
+.sign-up{
+    background-color: rgb(13, 60, 13);
+}
+.sign-up input{
+    background-color: rgb(105, 188, 105);
+    border-color: rgb(13, 60, 13);
+    
+    
+}
+.sign-up input{
+    background-color: rgb(105, 188, 105);
+    border-color: rgb(13, 60, 13);
+    
+    
+}
+.sign-up input[type="text"]{
+    background-color:rgb(122, 192, 122);
+    /* padding: 10px 15px; */
+    border-radius: 3px;
+    color:black;
+    font-weight: bold;
+}
+
+.sign-up input[type="date"]{
+    background-color:rgb(122, 192, 122);
+    /* padding: 10px 15px; */
+    border-radius: 3px;
+    border-style: none;
+    color:black;
+    font-weight: bold;
+}
+.sign-up input[type="email"]{
+    background-color:rgb(122, 192, 122);
+    /* padding: 10px 15px; */
+    border-radius: 3px;
+    color:black;
+    font-weight: bold;
+}
+
+.sign-up input[type="password"]{
+    background-color:rgb(122, 192, 122);
+    /* padding: 10px 15px; */
+    border-radius: 3px;
+    border-style: none;
+    color:black;
+    font-weight: bold;
+}
